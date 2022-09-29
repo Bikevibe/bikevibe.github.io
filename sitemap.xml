@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/09/29/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://bikevibe.top/post/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.html</loc>
     
     <lastmod>2022-09-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://bikevibe.top/about/index.html</loc>
     
     <lastmod>2022-09-29</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/09/29/hello-world/</loc>
+    <loc>https://bikevibe.top/post/hello-world.html</loc>
     
     <lastmod>2022-09-29</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://bikevibe.top/</loc>
     <lastmod>2022-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
